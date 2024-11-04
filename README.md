@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estcr
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... web development
+- 🌱 I’m currently learning ... Data Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ig: est_cr
 
